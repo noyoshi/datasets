@@ -65,7 +65,7 @@ if __name__ == '__main__':
     curr_type  = NON_ENTITY_TYPE
 
     for sentence in get_lines(sys.argv[1]):
-        out_string += sentence
+        # out_string += sentence
         sentence = space_out_characters(sentence, PUNCTUATION)
         # basically check if each token is normal or like the start or end of tag
         for token in sentence.split('\t')[0].split():
