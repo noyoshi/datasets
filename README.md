@@ -4,3 +4,5 @@
 This dataset comes from Modified DBpedia Entities Expansion (MDEE) (Alfina, et al., 2017).
 
 `./data/dataset_1` from https://github.com/yohanesgultom/nlp-experiments/blob/master/data/ner/training_data.txt
+
+Seems to be from DBpedia as well? Might be duplicated, need to check. 
